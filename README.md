@@ -27,4 +27,37 @@
 ![](https://streak-stats.demolab.com/?user=sagargupta163&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sagargupta163&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Featured Projects :-
+🤖 AI Chatbot using Google Gemini
+🎙️ AI Voice Assistant
+🔐 Cyber Security Threat Detection System
+💬 AI Human Feelings Message Generator
+🩺 Health Suggestion Platform
+🌐 Personal Portfolio Website
+
+## 🛠️ Tech Stack
+💻 *Languages:* Python • C++ • SQL • HTML
+🗄️ *Database:* DBMS • SQL
+⚙️ *Concepts:* OOP • Data Structures • Problem Solving • Debugging
+🤖 *AI:* NLP • Chatbots • Voice Assistants • Generative AI
+🎨 *Tools:* Git • GitHub • Figma • Canva • MS Office
+
+## 🌱 Currently Learning
+📖 Advanced Python
+🧠 Machine Learning
+🌐 Full-Stack Development
+🔐 Cybersecurity
+☁️ Cloud Computing
+
+## 🎯 Career Goal
+🚀 Seeking internship opportunities where I can contribute, learn from experienced developers, and build impactful AI and software solutions.
+
+## 📫 Let's Connect
+
+📧 *Email:* guptasagar7499@gmail.com
+
+💼 *LinkedIn:* www.linkedin.com/in/sagar-gupta-5108143a5
+
+⭐ "Eat 🍕 • Code 💻 • Learn 📚 • Sleep 😴 • Repeat 🔁"
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
