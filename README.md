@@ -35,21 +35,14 @@
 🩺 Health Suggestion Platform
 🌐 Personal Portfolio Website
 
-## 🛠️ Tech Stack
-💻 *Languages:* Python • C++ • SQL • HTML
-🗄️ *Database:* DBMS • SQL
-⚙️ *Concepts:* OOP • Data Structures • Problem Solving • Debugging
-🤖 *AI:* NLP • Chatbots • Voice Assistants • Generative AI
-🎨 *Tools:* Git • GitHub • Figma • Canva • MS Office
-
-## 🌱 Currently Learning
+## 🌱 Currently Learning :-
 📖 Advanced Python
 🧠 Machine Learning
 🌐 Full-Stack Development
 🔐 Cybersecurity
 ☁️ Cloud Computing
 
-## 🎯 Career Goal
+## 🎯 Career Goal :-
 🚀 Seeking internship opportunities where I can contribute, learn from experienced developers, and build impactful AI and software solutions.
 
 ## 📫 Let's Connect
@@ -57,6 +50,10 @@
 📧 *Email:* guptasagar7499@gmail.com
 
 💼 *LinkedIn:* www.linkedin.com/in/sagar-gupta-5108143a5
+
+🖥️ *GitHub:* https://github.com/sagargupta163
+
+🎯 *Instagram:* https://www.instagram.com/sagargupta163?igsh=dGZhMmlvNXBnOHlx
 
 ⭐ "Eat 🍕 • Code 💻 • Learn 📚 • Sleep 😴 • Repeat 🔁"
 
